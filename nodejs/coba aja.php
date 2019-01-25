@@ -8,7 +8,7 @@
     <div class="box-body">
 
 <div class="form-group">
-      <label for="id_jurusan">ID Jurusan</label>
+      <label for="id_jurusan">ID</label>
           <input type="text" class="form-control" id="id_jurusan" placeholder="Masukkan ID Jurusan" name="id_jurusan" maxlength="3" required="required">
           </div>        
 
